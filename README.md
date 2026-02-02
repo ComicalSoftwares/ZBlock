@@ -1,4 +1,4 @@
-# ZBlock
+<div align="center"> <h1>ZBlock</h1> </div>
 
 ![Zblock Logo Idea](https://github.com/user-attachments/assets/3002e563-610b-4d40-8f5d-146eb8b7c080)
 <div align="center">
@@ -7,7 +7,7 @@
 
 # ✨ Introduction
 
-ZBlock modifies your system hosts file by adding a lot of advertisement domains that the system must block by redirecting them to a computer that doesn't exist once you click on block ADs on the UI. Unfortunately, this will also block legitimate websites that don't have the purpose to show any AD.
+ZBlock modifies your system hosts file by adding a list of advertisement domains that the system must block by redirecting them to a computer that simply doesn't exist once you click on the **Block AD** button on the UI. Unfortunately, this can also block legitimate websites that don't have the purpose to show any AD. I am working on making 
 
 > [!WARNING]
 >  I am not responsible of damage caused to your computer. If do you want a safe, efficace & reliable experience, pls do not choose versions flagged as unstable. They're too heavy, they contain large amount of informations that can break the internet access feature on your PC, yet unreliable. These kind of versions are meant for educationnal/experimental purposes, not for actual use. Use them at your own risk.
