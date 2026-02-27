@@ -5,6 +5,15 @@
   ZBlock is a simple desktop app for Windows that helps you block most annoying ADs you see on your whole Windows Machine, written in python.
 </div>
 
+>[!Important]
+>This project is no longer maintained how it used to be due to me getting busier everyday. If you want to contribute then fork the code and open a pull request explaining the changes you've made to the source code. If the project does not seem to improve by much in the next future versions then I'm dropping support and archiving the repository for good. You can try fixing these issues in case you're interested and want to help shape the future of ZBlock:
+> - Improve the blacklist to stop it from blocking legitimate websites.
+> - Upgrading the look of the UI.
+> - Find a solution to stop user's internet speed from going down when a large blacklist file gets imported into the app.
+> - Stop the application from writting into the hosts file even without admin permissions.
+>
+> You can also try to find and fix other issues I didn't catch during the devvelopement of the software.
+
 # ✨ Introduction
 
 ZBlock modifies your system hosts file by adding a list of advertisement domains that the system must block by redirecting them to a computer that simply doesn't exist once you click on the **Block AD** button on the UI. Unfortunately, this can also block legitimate websites that don't have the purpose to show any AD. I am working on making 
