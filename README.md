@@ -6,13 +6,7 @@
 </div>
 
 >[!Important]
->This project is no longer maintained how it used to be due to me getting busier everyday. If you want to contribute then fork the code and open a pull request explaining the changes you've made to the source code. If the project does not seem to improve by much in the next future versions then I'm dropping support and archiving the repository for good. You can try fixing these issues in case you're interested and want to help shape the future of ZBlock:
-> - Improve the blacklist to stop it from blocking legitimate websites.
-> - Upgrading the look of the UI.
-> - Find a solution to stop user's internet speed from going down when a large blacklist file gets imported into the app.
-> - Stop the application from writting into the hosts file even without admin permissions.
->
-> You can also try to find and fix other issues I didn't catch during the devvelopement of the software.
+>This project is no longer maintained due to me getting busier & realizing that it is just not worth improving the project anymore. Using this software is no longer recommended. It is deprecated, buggy, not updated anymore and can cause damage to this computer
 
 # ✨ Introduction
 
